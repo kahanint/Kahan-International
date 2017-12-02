@@ -1,2 +1,0 @@
-# Kahan-International
-Kahan website
